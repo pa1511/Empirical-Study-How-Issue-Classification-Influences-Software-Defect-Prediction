@@ -1,0 +1,26 @@
+#====Jupyter Notebook====#
+jupyterlab==3.4.7
+
+#====GitHub Analysis====#
+PyGithub==1.55 
+
+#====Model Building====#
+torch==1.12.1
+transformers==4.22.1
+evaluate==0.2.2 
+datasets==2.5.1 
+einops==0.4.1 
+scikit-learn==1.1.2
+
+#====Data Manipulation & Visualization====#
+pandas==1.4.4
+numpy==1.23.3
+matplotlib==3.5.1 
+jsonpickle==2.1.0 
+pybase64==1.2.3 
+wordcloud==1.8.1
+nltk==3.7
+
+#====Other====#
+wheel
+tabulate==0.9.0
